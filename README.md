@@ -146,6 +146,7 @@ gitverse commit -m comments
 # See More
 
 - Videos:
+[https://youtu.be/0eBAB9rtWJI](https://youtu.be/0eBAB9rtWJI)
 
 > Introduction
 > 
@@ -155,7 +156,7 @@ gitverse commit -m comments
 > 
 - Contract Example Online:
 
-[https://moonbase.moonscan.io/address/0xd6bc22cbe64ef84b9bd0015ba06c67aea134d13f#code](https://moonbase.moonscan.io/address/0xd6bc22cbe64ef84b9bd0015ba06c67aea134d13f#code)
+[https://moonbase.moonscan.io/address/0xd6bc22cbe64ef84b9bd0015ba06c67aea134d13f#code](https://youtu.be/0eBAB9rtWJI)
 
 - Other Files:
 
