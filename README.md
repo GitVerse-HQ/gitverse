@@ -9,6 +9,7 @@
 Project name：Gitverse
 
 Starting time：2022-12-15
+Code address：https://github.com/GitverseEth/gitverse
 
 # Project Description
 
@@ -160,4 +161,4 @@ gitverse commit -m comments
 
 - Other Files:
 
-Project Pitch Deck:
+Project Pitch Deck: https://github.com/GitverseEth/gitverse/blob/main/Readme/GitVerse-deck.pdf
