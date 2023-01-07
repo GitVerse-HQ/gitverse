@@ -13,7 +13,7 @@ Code address：https://github.com/GitverseEth/gitverse
 
 # Project Description
 
-![Untitled](Readme/logo.png)
+![Untitled](image/logo.png)
 
 # Vision and Mission
 
@@ -51,7 +51,7 @@ Without violating the spirit of open source, the ecology of Web3 may bring new s
 
 Gitverse supports open-source projects to mint programmable NFTs to realize project copyright tracking, value accumulation, and developer ecological incentives.
 
-![image](Readme/core.png)
+![image](image/core.png)
 
 ## Smart Contract Design
 
@@ -97,15 +97,15 @@ Submit the code in the temporary storage area to the gitverse warehouse area. Cu
 
 # How it works
 
-![image](Readme/workflow.png)
+![image](image/workflow.png)
 
 # How Ecosystem Works
 
-![截屏2022-12-27 18.20.30.png](Readme/ecosystem.png)
+![截屏2022-12-27 18.20.30.png](image/ecosystem.png)
 
 # **Technical Architecture**
 
-![Untitled](Readme/architecture.png)
+![Untitled](image/architecture.png)
 
 # Functions completed during hackathon delivery黑客松期间完成的事项
 
@@ -127,21 +127,21 @@ ERC721 represents the value of the project.
 
 node gitverse.js init : create a bucket named gitverse on the cess system and mint a ERC1155 NFT
 
-![Untitled](Readme/init.png)
-![Untitled](Readme/createbucket.png)
+![Untitled](image/init.png)
+![Untitled](image/createbucket.png)
 
 node gitverse.js add <pathlist...>
 
-![Untitled](Readme/add.png)
+![Untitled](image/add.png)
 
 node gitverse.js commit -m comments : add a "fid" file to the cess system and mint a ERC721 NFT
 
-![Untitled](Readme/commit.png)
-![Untitled](Readme/bucketFile.png)
+![Untitled](image/commit.png)
+![Untitled](image/bucketFile.png)
 
 node gitverse.js tag <tagName> : release new version and mint a ERC721 NFT
 
-![Untitled](Readme/tag.png)
+![Untitled](image/tag.png)
 
 
 - [ ]  Support version and branch management of project files stored in IPFS/CESS
