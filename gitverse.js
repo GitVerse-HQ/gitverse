@@ -9,14 +9,14 @@ program.command('init')
     .description('Initialize empty gitverse repository')
     .action(async () => {
         const repo = await gitverse.InitGitRepo()
-        console.log(`Initialize gitverse repository (${repo}) success`)
+        console.log(`Initialized empty gitverse repository (${repo})`)
     })
 program.command('add <pathlist...>')
     .description('add code to gitverse repository')
     .action(async (pathlist) => {
         const result = await gitverse.AddGitCode(pathlist)
         if (result) {
-            console.log(`add file to gitverse repository success`)
+            console.log(`add file to gitverse repository`)
         }
     })
 program.command('tag <tagName>')
